@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## This is practice examples of image generators such as DALL·E 2, Midjourney, and Stable Diffusion from learnweb3.io
 
 ## Getting Started
 
